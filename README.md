@@ -14,6 +14,7 @@ sudo pip install -U setuptools
 ```
 sudo pip install bs4
 sudo pip install selenium
+sudo pip install requests
 ```
 
 ## 04 Install phantomjs
@@ -45,7 +46,11 @@ tools>Install Package Control
 ## 02 Downloading Required Packages
 * buildview
 * anaconda
-## 03 Configure Anaconda for linting (if you wish)
+## 03 Install selenium
+```
+pip install selenium
+```
+## 04 Configure Anaconda for linting (if you wish)
 
 
 
