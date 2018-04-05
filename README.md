@@ -33,10 +33,10 @@ sudo apt-get install sublime-text
 # For Windows
 
 ## 01 Install Anaconda
-(https://www.anaconda.com/download/)[https://www.anaconda.com/download/]
+[https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
 ## 02 Install Sublime
-(https://www.sublimetext.com/3)[https://www.sublimetext.com/3]
+[https://www.sublimetext.com/3](https://www.sublimetext.com/3)
 
 
 # Configure Sublime Text
